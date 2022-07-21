@@ -1,0 +1,2 @@
+Для [50, 80, 100] - maximum = 100.  minimum = 50.  arithmeticMean = 76.66666666666667.  
+Для [1, 5, 66] - maximum = 66.  minimum = 1.  arithmeticMean = 24.  
